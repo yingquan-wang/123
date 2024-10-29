@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/mbsa_1.0.0.202410291849.jar" id="mbsa" version="1.0.0.202410291849"/>
+   <feature url="features/acmefeature2_1.0.0.202410291927.jar" id="acmefeature2" version="1.0.0.202410291927"/>
 </site>
